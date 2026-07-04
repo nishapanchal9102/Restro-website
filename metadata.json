@@ -1,0 +1,6 @@
+{
+  "name": "Modern Dark Restaurant Website",
+  "description": "An immersive, beautifully crafted dark-themed modern restaurant website featuring culinary art, interactive reservation systems, smooth animations, and curated menus.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
